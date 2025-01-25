@@ -1,0 +1,10 @@
+**/target/
+**/.cargo/
+
+**/.vscode/
+**/*.iml
+**/.idea/
+**/*.swp
+**/.DS_Store
+**/Thumbs.db
+**/*.bak
